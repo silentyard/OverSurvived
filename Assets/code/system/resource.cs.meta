@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c5abc5c074eeea49bd92d925519e035
+timeCreated: 1534350078
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chop: {fileID: 8300000, guid: 61bd95633b6740040ac495f755d53235, type: 3}
+  - burn: {fileID: 8300000, guid: 09ca3f9539e9eca4aa09e76913705c7f, type: 3}
+  - build: {fileID: 8300000, guid: bdcc8838160594245a4420e8c3b4faf9, type: 3}
+  - get_food: {fileID: 8300000, guid: 762a2fb87ce08ed4eac8b29ab7f7382e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
